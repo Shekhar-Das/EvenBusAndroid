@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EvenBusAndroid</string>
+    <string name="tab_text_1">TAB1</string>
+    <string name="tab_text_2">TAB2</string>
+</resources>
